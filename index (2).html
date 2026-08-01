@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Starred repositories</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <main class="container">
+    <header>
+      <h1>Starred repositories</h1>
+      <p class="lead">A simple list of repositories you (or your project) have starred.</p>
+    </header>
+
+    <section id="content">
+      <div id="status" aria-live="polite">Loading starred repositories…</div>
+      <ul id="starred-list" class="repo-list" aria-live="polite"></ul>
+    </section>
+
+    <footer>
+      <p class="muted">Data from a local <code>events.json</code> file (sample).</p>
+    </footer>
+  </main>
+
+  <script src="script.js" defer></script>
+</body>
+</html>
