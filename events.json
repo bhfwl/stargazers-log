@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "awesome-lib",
+    "owner": "octocat",
+    "html_url": "https://github.com/octocat/awesome-lib",
+    "description": "A small library that makes things awesome.",
+    "language": "TypeScript",
+    "stargazers_count": 1245,
+    "starred_at": "2026-07-28T14:32:00Z"
+  },
+  {
+    "id": 2,
+    "name": "neat-tool",
+    "owner": "alice",
+    "html_url": "https://github.com/alice/neat-tool",
+    "description": "Command-line tool to tidy up your workflow.",
+    "language": "Go",
+    "stargazers_count": 842,
+    "starred_at": "2026-06-15T09:10:00Z"
+  },
+  {
+    "id": 3,
+    "name": "ui-kit",
+    "owner": "design-systems",
+    "html_url": "https://github.com/design-systems/ui-kit",
+    "description": "A collection of reusable UI components.",
+    "language": "CSS",
+    "stargazers_count": 2301,
+    "starred_at": "2026-01-04T18:45:00Z"
+  }
+]
